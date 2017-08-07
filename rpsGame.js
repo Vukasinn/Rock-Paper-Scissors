@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // var rock = document.getElementById("rock");
 // var paper = document.getElementById("paper");
 // var scissors = document.getElementById("scissors");
@@ -94,5 +94,5 @@ button.addEventListener("click", function () {
     }else if(playerChoice !== "ROCK" || "PAPER" || "SCISSORS"){
         document.querySelector("#start").innerHTML = "Please choose from Rock, Paper or Scissors.";
     }
->>>>>>> 036a15e1d597c7ec9da3d8d6dab8a545da7d72fd
+
 });
